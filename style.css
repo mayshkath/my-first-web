@@ -1,0 +1,29 @@
+h1 {
+    font-size: 60px;
+    color: rgba(9, 236, 13, 0.967);
+}
+
+.a {
+    color: rgb(240, 12, 191);
+}
+
+h3 {
+    font-size: 40px;
+    color: rgb(218, 237, 9);
+}
+
+p {
+    font-size: 30px;
+    color: brown;
+}
+
+.b {
+    width: 50%;
+    float: left;
+
+
+}
+
+.b img {
+    width: 90%;
+}
